@@ -1,0 +1,58 @@
+/* This code is the property of 10xCoderKids and is aprotected with Copyright laws. All rights are reserved. Any unauthorized use is liable to prosecution under the local and international Copyright laws */
+
+body {
+  margin: 0px;
+}
+#board {
+  border: 5px solid black;
+  width: 480px;
+}
+.image {
+  width: 50px;
+  height: 50px;
+  border-width: 5px;
+  vertical-align: middle;
+}
+.image:hover{
+  -moz-transform: rotate(360deg); 
+  -webkit-transform: rotate(360deg); 
+  -o-transform: rotate(360deg);
+  -ms-transform: rotate(360deg);
+  transform: rotate(360deg);
+  -moz-transition: all 1s ease-in-out;
+  -webkit-transition: all 1s ease-in-out;
+  -o-transition: all 1s ease-in-out;
+  -ms-transition: all 1s ease-in-out;
+  transition: all 1s ease-in-out;
+}
+button{
+  width: 60px;
+  height: 60px;
+  padding: 0px;
+  border-width: 0px;
+}
+.white{
+  background-color: white;
+}
+.black{
+  background-color: black;
+}
+#header {
+  width: 480px;
+  font-size: 3em;
+  font-weight: bold;
+  background-color: silver;
+}
+#footer {
+  width: 480px;
+  font-size: 2em;
+  font-weight: bold;
+  background-color: silver;
+}
+#report {
+  width: 480px;
+  font-size: 1.5em;
+  font-weight: bold;
+  background-color: black;
+  color: silver;
+}
