@@ -1,6 +1,6 @@
-# [Coding for Kids | 10xCoderKidsᵀᴹ](https://www.10xcoderkids.com/)
+# [Coding & Robotics for Kids | 10xCoderKidsᵀᴹ](https://www.10xcoderkids.com/)
 
-10xCoderKids is your partner in the journey to become 10x Coder !!! Learn Coding from 10xCoderKids. Learn to build fun apps, games & a lot more...
+10xCoderKids is your partner in the journey to become 10x Coder !!! Learn Coding, Robotics and App Development from 10xCoderKids. Learn to build fun apps, games & a lot more...
 
 Founder [@saiongupta](https://twitter.com/saiongupta), Co-Founder [@saiasmigupta](https://twitter.com/saiasmigupta)
 
